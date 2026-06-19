@@ -1,0 +1,24 @@
+<infEnv versao="2.00" xmlns="http://www.realsoft.net.br/licenca">
+  <infLic Id="ID123456789456789321">
+    <Razao>ADIEL SANTOS FONTES ME</Razao>
+    <FILIAL>1</FILIAL>
+    <Fantasia>AFIIP</Fantasia>
+    <CNPJ>07412949000148</CNPJ>
+    <Endereco>CONJUNTO CAJAZEIRAS VIII</Endereco>
+    <Cep>41330020</Cep>
+    <Cidade>SALVADOR</Cidade>
+    <UF>BA</UF>
+    <Telefone>7188181136</Telefone>
+    <Celular>71991980370</Celular>
+    <HostEmail>smtp.gmail.com</HostEmail>
+    <Email>adiel.supremo@gmail.com</Email>
+    <Password></Password>
+    <Porta>465</Porta>
+    <DataAutorizacao>15/11/2022 15:01:56</DataAutorizacao>
+    <DataRegistro>15/11/2022 13:59:16</DataRegistro>
+    <LicencaLiberada>true</LicencaLiberada>
+    <Validade>09/09/2024 13:59:16</Validade>
+    <ValidoAte>09/12/2024 15:01:56</ValidoAte>
+    <SerialAtivo></SerialAtivo>
+    <conexao>ZrpT0iK4hzkWKPvGYwqiD7fsV9klg4szCrH89ieZLDlGDtvPNT3YkKtFX66E4mKYo3xpMgDdxZco1ece+hMOD4EBKe+k3ePYph1u3MIgxohRYYaIkuEjziOY7QPTHi/B</conexao>
+  </infLic></infEnv>
